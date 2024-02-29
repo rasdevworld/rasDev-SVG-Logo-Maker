@@ -1,5 +1,5 @@
 const Circle = require("../lib/circle")
-const circle = new Circle("RAS","blue","black")
+const circle = new Circle("RAS", "blue", "black")
 
 describe("Circle", () => {
     describe("properties", () => {
