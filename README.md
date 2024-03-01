@@ -31,9 +31,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 MIT License - The License file is provided here : (./LICENSE)
 
-## Screenshots
+## Screenshot
 
-
+![Alt text](Images/SVG_Logo.png)
 
 ## Github Repository and Demo Link
 
